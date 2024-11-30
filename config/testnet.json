@@ -1,0 +1,63 @@
+[
+    {
+        "NetworkName": "Sepolia",
+        "ChainId": 11155111,
+        "RpcUrl": "https://eth-sepolia.public.blastapi.io",
+        "Explorer": "https://sepolia.etherscan.io/tx/"
+    },
+    {
+      "NetworkName": "Abstract",
+      "ChainId": 11124,
+      "RpcUrl": "https://api.testnet.abs.xyz",
+      "Explorer": "https://explorer.testnet.abs.xyz/tx/"
+    },
+    {
+      "NetworkName": "Arbitrum Sepolia",
+      "ChainId": 421614,
+      "RpcUrl": "https://sepolia-rollup.arbitrum.io/rpc",
+      "Explorer": "https://sepolia-explorer.arbitrum.io/tx/"
+    },
+    {
+      "NetworkName": "Base Sepolia",
+      "ChainId": 84532,
+      "RpcUrl": "https://sepolia.base.org",
+      "Explorer": "https://sepolia.basescan.org/tx/"
+    },
+    {
+      "NetworkName": "Eclipse Testnet",
+      "ChainId": 1118190,
+      "RpcUrl": "https://rpc.eclipse.com/testnet",
+      "Explorer": "https://explorer.testnet.eclipse.com/tx/"
+    },
+    {
+      "NetworkName": "Holesky",
+      "ChainId": 17000,
+      "RpcUrl": "https://holesky.ethereum.org/rpc",
+      "Explorer": "https://holesky.etherscan.io/tx/"
+    },
+    {
+      "NetworkName": "Lisk Sepolia",
+      "ChainId": 4202,
+      "RpcUrl": "https://sepolia.lisk.io",
+      "Explorer": "https://explorer.testnet.lisk.io/tx/"
+    },
+    {
+      "NetworkName": "Oddysey",
+      "ChainId": 911867,
+      "RpcUrl": "https://rpc.oddysey.org",
+      "Explorer": "https://explorer.oddysey.org/tx/"
+    },
+    {
+      "NetworkName": "OP Sepolia",
+      "ChainId": 11155420,
+      "RpcUrl": "https://sepolia.optimism.io",
+      "Explorer": "https://sepolia-optimism.etherscan.io/tx/"
+    },
+    {
+      "NetworkName": "Unichain Sepolia",
+      "ChainId": 1301,
+      "RpcUrl": "https://rpc.unichain-sepolia.com",
+      "Explorer": "https://explorer.unichain-sepolia.com/tx/"
+    }
+  ]
+  

@@ -1,0 +1,86 @@
+[
+  {
+    "NetworkName": "Arbitrum",
+    "ChainId": 42161,
+    "RpcUrl": "https://arb1.arbitrum.io/rpc",
+    "Explorer": "https://arbiscan.io/tx/"
+  },
+  {
+    "NetworkName": "Arbitrum Nova",
+    "ChainId": 42170,
+    "RpcUrl": "https://nova.arbitrum.io/rpc",
+    "Explorer": "https://nova.arbiscan.io/tx/"
+  },
+  {
+    "NetworkName": "Base",
+    "ChainId": 8453,
+    "RpcUrl": "https://mainnet.base.org",
+    "Explorer": "https://basescan.org/tx/"
+  },
+  {
+    "NetworkName": "Blast",
+    "ChainId": 81457,
+    "RpcUrl": "https://blast.blockpi.network/v1/rpc/public",
+    "Explorer": "https://blastscan.io/tx/"
+  },
+  {
+    "NetworkName": "Ethereum",
+    "ChainId": 1,
+    "RpcUrl": "https://mainnet.infura.io/v3/YOUR_INFURA_PROJECT_ID",
+    "Explorer": "https://etherscan.io/tx/"
+  },
+  {
+    "NetworkName": "Linea",
+    "ChainId": 59144,
+    "RpcUrl": "https://linea-mainnet.infura.io/v3/YOUR_INFURA_PROJECT_ID",
+    "Explorer": "https://explorer.linea.build/tx/"
+  },
+  {
+    "NetworkName": "Lisk",
+    "ChainId": 1135,
+    "RpcUrl": "https://mainnet.lisk.io",
+    "Explorer": "https://explorer.lisk.io/tx/"
+  },
+  {
+    "NetworkName": "Mint",
+    "ChainId": 185,
+    "RpcUrl": "https://rpc.mintlayer.org",
+    "Explorer": "https://explorer.mintlayer.org/tx/"
+  },
+  {
+    "NetworkName": "Mode",
+    "ChainId": 34443,
+    "RpcUrl": "https://rpc.mode.network",
+    "Explorer": "https://explorer.mode.network/tx/"
+  },
+  {
+    "NetworkName": "Optimism",
+    "ChainId": 10,
+    "RpcUrl": "https://mainnet.optimism.io",
+    "Explorer": "https://optimistic.etherscan.io/tx/"
+  },
+  {
+    "NetworkName": "Scroll",
+    "ChainId": 534352,
+    "RpcUrl": "https://rpc.scroll.io",
+    "Explorer": "https://scrollscan.io/tx/"
+  },
+  {
+    "NetworkName": "Zero",
+    "ChainId": 543210,
+    "RpcUrl": "https://zero-network.calderachain.xyz",
+    "Explorer": "https://zero-network.calderaexplorer.xyz/tx/"
+  },
+  {
+    "NetworkName": "Zksync Era",
+    "ChainId": 324,
+    "RpcUrl": "https://mainnet.era.zksync.io",
+    "Explorer": "https://explorer.zksync.io/tx/"
+  },
+  {
+    "NetworkName": "Zora",
+    "ChainId": 7777777,
+    "RpcUrl": "https://rpc.zora.co",
+    "Explorer": "https://explorer.zora.co/tx/"
+  }
+]

@@ -1,0 +1,7 @@
+config/license.json
+node_modules/
+.env
+main.js
+package-lock.json
+.vscode/
+config/licence.json
