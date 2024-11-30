@@ -38,8 +38,8 @@
   {
     "NetworkName": "Lisk",
     "ChainId": 1135,
-    "RpcUrl": "https://mainnet.lisk.io",
-    "Explorer": "https://explorer.lisk.io/tx/"
+    "RpcUrl": "https://rpc.api.lisk.com/",
+    "Explorer": "https://blockscout.lisk.com/tx/"
   },
   {
     "NetworkName": "Mint",

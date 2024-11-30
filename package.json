@@ -3,7 +3,8 @@
     "version": "1.0.0",
     "main": "index.js",
     "scripts": {
-        "start": "node index.js"
+        "start": "node index.js",
+        "check": "node src/balance.js"
     },
     "dependencies": {
         "@reservoir0x/relay-ethers-wallet-adapter": "^13.0.7",
@@ -19,5 +20,10 @@
     "keywords": [],
     "author": "",
     "license": "ISC",
-    "description": ""
+    "description": "",
+    "devDependencies": {
+        "rollup": "^4.27.4",
+        "webpack": "^5.96.1",
+        "webpack-cli": "^5.1.4"
+    }
 }
